@@ -1,6 +1,7 @@
 <!---
 {
   "id": "e8add8e9-7a67-4b50-af89-6c1ce6558e0d",
+  "teaches": "Using `curl` to Interact with Web APIs",
   "depends_on": ["e46ffb8b-00d6-44a2-ad40-552ea03b4e3a"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-07",
